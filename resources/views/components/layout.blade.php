@@ -13,7 +13,7 @@
 
 <body>
     <x-navbar></x-navbar>
-    <div class="flex justify-center">
+    <div class="flex justify-center w-full">
         {{ $slot }}
     </div>
 </body>
