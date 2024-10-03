@@ -21,9 +21,10 @@
         </div>
         <div1 class="hidden lg:flex lg:gap-x-12">
 
-            <a href="Home" class="text-sm font-semibold leading-6 text-gray-900">Home</a>
-            <a href="About" class="text-sm font-semibold leading-6 text-gray-900">About</a>
-            <a href="Contact" class="text-sm font-semibold leading-6 text-gray-900">Contact</a>
+            <a href="/" class="text-sm font-semibold leading-6 text-gray-900">Home</a>
+            <a href="about" class="text-sm font-semibold leading-6 text-gray-900">About</a>
+            <a href="project" class="text-sm font-semibold leading-6 text-gray-900">Project</a>
+            <a href="contact" class="text-sm font-semibold leading-6 text-gray-900">Contact</a>
         </div1>
         <div class="hidden lg:flex lg:flex-1 lg:justify-end">
             <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Log in <span

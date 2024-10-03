@@ -13,7 +13,9 @@
 
 <body>
     <x-navbar></x-navbar>
-    {{ $slot }}
+    <div class="flex justify-center">
+        {{ $slot }}
+    </div>
 </body>
 
 </html>
