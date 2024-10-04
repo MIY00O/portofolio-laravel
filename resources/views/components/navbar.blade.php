@@ -24,7 +24,6 @@
             <a href="/" class="text-sm font-semibold leading-6 text-gray-900">Home</a>
             <a href="about" class="text-sm font-semibold leading-6 text-gray-900">About</a>
             <a href="projects" class="text-sm font-semibold leading-6 text-gray-900">Projects</a>
-            <a href="contact" class="text-sm font-semibold leading-6 text-gray-900">Contact</a>
         </div1>
         <div class="hidden lg:flex lg:flex-1 lg:justify-end">
             <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Log in <span
@@ -59,8 +58,6 @@
                             class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Home</a>
                         <a href="about"
                             class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">About</a>
-                        <a href="contact"
-                            class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Contact</a>
                         <a href="projects"
                             class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Project</a>
                     </div>
